@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**quintlinden/quintlinden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi my name is Quint👋, I am passionate about data science, engineering, and analysis. I like to solve complex problems and building innovative solutions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 I specialize in data science, machine learning, and data engineering.
+- 💡 Driven by curiosity and a love for learning, I enjoy tackling challenging projects and exploring cutting-edge technologies.
+- 🌍 Currently based in Eindhoven, Netherlands, always eager to connect with others worldwide.
+
+## Let's Connect
+
+Feel free to explore my (still limited) repositories and reach out if you'd like to collaborate or discuss ideas!
+
+---
+
+[LinkedIn](https://linkedin.com/in/quintlinden)
